@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DBF885E0-6E01-470D-ABFE-56F16DBAAA89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI_Client/Models/ClientModel.cs">
+    <Files>
+      <File FileName="WebAPI_Client/Controllers/HomeController.cs" Line="22" Column="53" />
+      <File FileName="WebAPI_Client/Models/ClientModel.cs" Line="16" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebAPI__Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
